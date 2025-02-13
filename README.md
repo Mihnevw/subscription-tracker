@@ -1,6 +1,6 @@
 # ⚙️ Backend Operations for [Your Project Name]
 
-🚀 **Мощен backend, създаден с Node.js, Express и MongoDB** – осигурява сигурни и ефективни операции за обработка на данни.
+🚀 Powerful backend built with Node.js, Express, and MongoDB – provides secure and efficient data processing operations.
 
 ---
 
@@ -12,21 +12,21 @@
 
 ---
 
-## **🚀 API Ендпойнти**
-📌 **Аутентикация**
-- `POST /api/auth/register` – Регистрира нов потребител  
-- `POST /api/auth/login` – Вход с JWT  
-- `GET /api/auth/user` – Връща текущия потребител  
+## **🚀 API Endpoints**
+📌 **Authentication**
+- `POST /api/auth/register` – Registers a new user  
+- `POST /api/auth/login` – Login with JWT 
+- `GET /api/auth/user` – Returns the current user
 
-📌 **Операции с данни**
-- `GET /api/items` – Връща всички елементи  
-- `POST /api/items` – Добавя нов елемент  
-- `DELETE /api/items/:id` – Изтрива елемент  
+📌 **Data operations**
+- `GET /api/items` – Returns all items
+- `POST /api/items` – Adds a new item  
+- `DELETE /api/items/:id` – Deletes an item  
 
 ---
 
-## **📦 Инсталация**
-1️⃣ **Клонирай репото**  
+## **📦 Installation **
+1️⃣ **Clone the repo**  
 ```sh
 git clone https://github.com/yourusername/backend-operations.git
 cd backend-operations
